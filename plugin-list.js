@@ -1,6 +1,6 @@
 module.exports = {
 	'ast-css': 'bundle',
-	'lang-python': 'addon',
+	'lang-python': 'bundle',
 	'lang-coffeescript': 'addon',
 	'lang-lua': 'addon',
 	'babylon': 'opt-in',
